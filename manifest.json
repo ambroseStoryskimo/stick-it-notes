@@ -1,21 +1,21 @@
 {
-  "name": "Stick-it Notes by Tharun",
-  "short_name": "Stick-it",
-  "start_url": "index.html",
+  "name": "Storyskimo",
+  "short_name": "Storyskimo",
+  "start_url": "www.storyskimo.com",
   "scope": "./",
   "icons": [
     {
-      "src": "contract.png",
+      "src": "https://images.squarespace-cdn.com/content/5dd94e07dac9c74b00e530d0/1580996421258-WHJ3VD110MGFNWQWGL37/Storyskimo.png?content-type=image%2Fpng",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "contract.png",
+      "src": "https://images.squarespace-cdn.com/content/5dd94e07dac9c74b00e530d0/1580996421258-WHJ3VD110MGFNWQWGL37/Storyskimo.png?content-type=image%2Fpng",
       "sizes": "512x512",
       "type": "image/png"
     }
   ],
-  "theme_color": "#ffd31d",
-  "background_color": "#333",
-  "display": "standalone"
+  "theme_color": "#ffcd00",
+  "background_color": "#ffffff",
+  "display": "fullscreen"
 }
